@@ -85,7 +85,6 @@ Plataforma web de reseñas de videojuegos inspirada en Steam, con tema oscuro y 
 - Publicación de juegos con imagen, escritura de reseñas con puntuación (0.0–5.0)
 - Sistema de autenticación y permisos por rol (anónimo / usuario / autor / staff)
 - Soporte para múltiples backends de base de datos: SQLite y MySQL
-- **Desplegada en:** [pythonanywhere.com](https://carlos17082005.pythonanywhere.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
