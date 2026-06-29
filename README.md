@@ -94,18 +94,6 @@ Plataforma web de reseñas de videojuegos inspirada en Steam, con tema oscuro y 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos17082005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos17082005&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Contacto
 
 ¿Tienes un proyecto en mente, una oportunidad laboral o simplemente quieres conectar? ¡Escríbeme!
@@ -122,7 +110,5 @@ Plataforma web de reseñas de videojuegos inspirada en Steam, con tema oscuro y 
 <div align="center">
 
 *"Si tengo una idea o un reto por delante, me lanzo a construirlo."*
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Carlos17082005.Carlos17082005)
 
 </div>
